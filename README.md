@@ -33,6 +33,12 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=askarthemasss&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
 </a> -->
 <br>
+  
+![profile count](https://komarev.com/ghpvc/?username=askarthemasss&color=red)&nbsp;
+[![GitHub askarthemasss](https://img.shields.io/github/followers/askarthemasss?label=follow&style=social)](https://github.com/askarthemasss)&nbsp;
+<!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
+
+<br>
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=askarthemasss&layout=compact&theme=vision-friendly-dark" />
 </a>
