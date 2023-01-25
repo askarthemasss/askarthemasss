@@ -10,7 +10,7 @@
 - 👀 I’m interested in Frontend and Full-stack Development
 - 🌱 I’m currently learning JavaScript, React, Java and more
 - 💞️ I’m looking to collaborate on Frontend 
-- 📫 How to reach me ...
+<!-- - 📫 How to reach me ... -->
 
 <!---
 askarthemasss/askarthemasss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
