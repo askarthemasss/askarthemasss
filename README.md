@@ -7,9 +7,9 @@
 #### A Self-taught Professional Software Developer with more than a year of experience in customizing and implementing software products. Offering Strong Expertise in multiple programming languages/libraries such as JavaScript, React.js, Java and Spring.
   <br>
   
-- 👀 I’m interested in Frontend and Full-stack Development
-- 🌱 I’m currently learning JavaScript, React, Java and more
-- 💞️ I’m looking to collaborate on Frontend 
+- 👀 I’m interested in Frontend and Full-stack Development.
+- 🌱 I’m currently learning JavaScript, React, Java, Spring and more.
+- 💞️ I’m looking to collaborate on Frontend projects.
 <!-- - 📫 How to reach me ... -->
 
 <!---
