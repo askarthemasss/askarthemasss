@@ -4,7 +4,7 @@
 # Hi, I am Mohamed Askar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
   <br>
   
-#### A Self-taught Professional Software Developer with more than a year of experience in customizing and implementing software products. Offering Strong Expertise in multiple programming languages/libraries such as JavaScript, React.js, Java and Spring.
+#### A Self-taught Professional Software Developer with more than a year of experience in customizing and implementing SaaS products. Offering Strong Expertise in multiple programming languages/libraries such as JavaScript, React.js, Java and Spring.
   <br>
   
 - 👀 I’m interested in Frontend and Full-stack Development.
@@ -29,9 +29,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 ### 📈 Github Stats:
-<!-- <a href="https://github.com/askarthemasss">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=askarthemasss&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
-</a> -->
+
 <br>
   
 ![profile count](https://komarev.com/ghpvc/?username=askarthemasss&color=red)&nbsp;
@@ -46,7 +44,12 @@ You can click the Preview link to take a look at your changes.
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=askarthemasss&theme=dark)](https://git.io/streak-stats)
 
-<br>
+<!-- <br> -->
+<a href="https://github.com/askarthemasss">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=askarthemasss&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
+</a>
+  
+<br/><br>
 
 ### 📫 &nbsp; How to reach me:
 
