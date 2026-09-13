@@ -185,26 +185,22 @@ Engineering shorts covering Angular internals, LeetCode DSA walkthroughs in Pyth
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=askarthemasss&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DD0031&icon_color=DD0031&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<!-- Streak — demolab is the most reliable service for GitHub stats -->
+<img src="https://streak-stats.demolab.com?user=askarthemasss&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=DD0031&ring=DD0031&fire=FF6B6B&currStreakLabel=DD0031&sideLabels=c9d1d9&dates=c9d1d9" width="60%" />
+
+<br/><br/>
+
+<!-- Profile summary cards — separate Vercel deployment, more stable than github-readme-stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=askarthemasss&theme=github_dark" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=askarthemasss&theme=github_dark" width="32%" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=askarthemasss&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=DD0031&text_color=c9d1d9&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=askarthemasss&theme=github_dark" width="32%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=askarthemasss&theme=github_dark&utcOffset=5.5" width="32%" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=askarthemasss&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=DD0031&ring=DD0031&fire=FF6B6B&currStreakLabel=DD0031&sideLabels=c9d1d9&dates=c9d1d9" width="55%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=askarthemasss&theme=github-compact&hide_border=true&bg_color=0D1117&color=DD0031&line=DD0031&point=ffffff&area=true&area_color=3d0a0a" width="100%" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=askarthemasss&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
