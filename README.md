@@ -142,7 +142,7 @@ Structured AI conversations for career transitions and role clarity.
 
 ![Live](https://img.shields.io/badge/%E2%97%8F%20LIVE-22c55e?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-6366F1?style=flat-square)
-![Claude](https://imgshields.io/badge/Claude-D97706?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square)
 
 </td>
 </tr>
