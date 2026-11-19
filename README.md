@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&pause=99999&color=DD0031&center=true&vCenter=true&width=600&lines=Mohamed+Askar" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=48&pause=99999&color=A78BFA&center=true&vCenter=true&width=700&lines=Mohamed+Askar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=2400&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Frontend+Engineer+%E2%80%A2+Angular+%26+TypeScript+%E2%80%A2+5%2B+Years;Building+AI-powered+products+from+scratch;Content+Creator+on+X+%26+YouTube;MCP+Tooling+%E2%80%A2+Agent+Workflows+%E2%80%A2+LLM+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2800&pause=900&color=E2E8F0&center=true&vCenter=true&width=900&lines=Frontend+Engineer+%C2%B7+AI+Builder+%C2%B7+5+Years;On+the+path+to+Forward+Deployed+Engineer;MCP+%C2%B7+Agents+%C2%B7+LLMs+%C2%B7+Angular+%C2%B7+Python;Building+in+public+on+X+%26+YouTube" />
 
 <br/>
 
-[![X](https://img.shields.io/badge/𝕏%20@askarthemass-follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/askarthemass)
-[![YouTube](https://img.shields.io/badge/▶%20@askarcodes-subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@askarcodes)
+[![X](https://img.shields.io/badge/%F0%9D%95%8F%20%40askarthemass-follow-0f0f0f?style=for-the-badge&logo=x&logoColor=white)](https://x.com/askarthemass)
+[![YouTube](https://img.shields.io/badge/%E2%96%B6%20%40askarcodes-subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@askarcodes)
 [![LinkedIn](https://img.shields.io/badge/in%20Mohamed%20Askar-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-askar-a-9370a1b2/)
-
-[![Portfolio](https://img.shields.io/badge/🌐%20askar--codes.vercel.app-visit-DD0031?style=for-the-badge)](https://askar-codes.vercel.app)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20askar--codes.vercel.app-visit-6366F1?style=for-the-badge)](https://askar-codes.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-askarthemasss-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/askarthemasss/)
-[![Gmail](https://img.shields.io/badge/mohamedaskar476@gmail.com-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaskar476@gmail.com)
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=askarthemasss&style=for-the-badge&color=DD0031&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=askarthemasss&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
 [![](https://img.shields.io/github/followers/askarthemasss?style=for-the-badge&logo=github&color=181717&label=FOLLOWERS)](https://github.com/askarthemasss)
 
 </div>
@@ -32,112 +28,121 @@ import { Injectable, signal, computed } from '@angular/core';
 export class AskarService {
 
   readonly name       = signal('Mohamed Askar');
-  readonly title      = signal('Frontend Engineer · Angular Craftsman');
-  readonly location   = signal('Chennai, India 🇮🇳');
-  readonly experience = signal('5+ years across hospitality enterprise tech');
+  readonly title      = signal('Frontend Engineer · AI Builder · FDE path');
+  readonly location   = signal('Chennai, India');
+  readonly experience = signal('5 years · hospitality enterprise systems');
 
   readonly career = signal([
-    { org: 'Agilysys',   role: 'Software Analyst',           period: 'Apr 2023 – Present'     },
-    { org: 'Zappyworks', role: 'Intern → Member Tech Staff', period: 'Sept 2021 – Apr 2023'   },
+    { org: 'Agilysys',   role: 'Software Analyst',           period: 'Apr 2023 – Present'   },
+    { org: 'Zappyworks', role: 'Intern → Member Tech Staff', period: 'Sept 2021 – Apr 2023' },
   ]);
 
-  readonly recognition = signal('⭐ Super Squad Award — Agilysys');
+  readonly recognition = signal([
+    'Super Squad Award — Agilysys',
+    'Team Player Award — Agilysys',
+  ]);
 
-  readonly expertise = signal({
-    daily:      ['Angular v1–v20', 'TypeScript', 'RxJS', 'Signals', 'Tailwind CSS'],
-    testing:    ['Jest', 'Jasmine', 'ESLint'],
-    ai:         ['MCP Tooling', 'Claude AI', 'Gemini', 'GitHub Copilot', 'Lovable'],
-    growing:    ['C#', '.NET Core', 'Python'],
+  readonly stack = signal({
+    frontend:  ['Angular', 'TypeScript', 'RxJS', 'Signals', 'Tailwind', 'Jest'],
+    ai:        ['Python', 'MCP', 'Agents', 'Prompt/Context Eng', 'RAG patterns', 'Copilot'],
+    backend:   ['FastAPI', 'C# / .NET', 'REST', 'SQL'],
+    shipping:  ['Vercel', 'GitHub Actions', 'Edge APIs'],
   });
 
   readonly shipped = signal([
-    'LTReee        →  ltreee.app             — link-in-bio builder',
-    'RoleMentor AI →  rolementor.lovable.app — AI career advisor',
+    'Sigil          → profile-flair-studio.vercel.app  — GitHub profile cards',
+    'LTReee         → ltreee.app                       — link-in-bio builder',
+    'RoleMentor AI  → rolementor.lovable.app           — AI career advisor',
   ]);
 
   readonly content = signal([
-    'Angular internals, threads & articles  →  X @askarthemass',
-    'Shorts · DSA walkthroughs · AI news    →  YouTube @askarcodes',
+    'Forward Deployed Engineering series  →  X @askarthemass',
+    'AI for Software Engineers + DSA      →  YouTube @askarcodes',
   ]);
 
   readonly drive = computed(() =>
-    `Ship real things. Stay curious. Build in public.`
+    'Ship the last mile. Sit close to the problem. Build in public.'
   );
 }
 ```
 
 ---
 
-## ⚡ Stack
+## Stack
 
 <div align="center">
 
-### Core
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)&nbsp;
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)&nbsp;
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+### AI & Agents
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logo=probot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-### Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+### Backend & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 AI & Agentic
-![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)&nbsp;
-![Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=flat-square&logo=anthropic&logoColor=white)&nbsp;
-![MCP](https://img.shields.io/badge/MCP%20Tooling-6366F1?style=flat-square&logo=probot&logoColor=white)&nbsp;
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)&nbsp;
-![Lovable](https://img.shields.io/badge/Lovable-FF3E9A?style=flat-square&logo=sparkles&logoColor=white)
-
-### Expanding Into
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Tooling & Ship
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Shipped
+## Shipped
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**🔗 [LTReee](https://ltreee.app)**
-`ltreee.app`
+**Sigil**  
+[profile-flair-studio.vercel.app](https://profile-flair-studio.vercel.app)
 
-Free, fast link-in-bio page builder. One link to hold your portfolio, socials, and contact — loads instantly, no account wall.
+Nine living GitHub profile cards — one design language, zero-config, MIT.
 
-![Live](https://img.shields.io/badge/●%20LIVE-22c55e?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Live](https://img.shields.io/badge/%E2%97%8F%20LIVE-22c55e?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MIT](https://img.shields.io/badge/MIT-gray?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**🧠 [RoleMentor AI](https://rolementor.lovable.app)**
-`rolementor.lovable.app`
+**LTReee**  
+[ltreee.app](https://ltreee.app)
 
-AI-powered career advisor. Structured conversations that help you navigate role transitions, skill gaps, and career direction.
+Fast link-in-bio builder. Portfolio, socials, projects — one link, no wall.
 
-![Live](https://img.shields.io/badge/●%20LIVE-22c55e?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF3E9A?style=flat-square&logo=sparkles&logoColor=white)
+![Live](https://img.shields.io/badge/%E2%97%8F%20LIVE-22c55e?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**RoleMentor AI**  
+[rolementor.lovable.app](https://rolementor.lovable.app)
+
+Structured AI conversations for career transitions and role clarity.
+
+![Live](https://img.shields.io/badge/%E2%97%8F%20LIVE-22c55e?style=flat-square)
+![AI](https://img.shields.io/badge/AI-6366F1?style=flat-square)
+![Claude](https://imgshields.io/badge/Claude-D97706?style=flat-square)
 
 </td>
 </tr>
@@ -145,39 +150,44 @@ AI-powered career advisor. Structured conversations that help you navigate role 
 
 ---
 
-## 📡 Content
+## Building in public
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-**✍️ X — [@askarthemass](https://x.com/askarthemass)**
+**X — [@askarthemass](https://x.com/askarthemass)**
 
-Angular deep-dives, modern API threads, and frontend engineering takes.
+Forward Deployed Engineering series, Angular internals, AI systems.
 
 ```
-Recent articles
-├── httpResource() — kills manual Observables
-└── @defer — screen splitting, not lazy routing
+FDE path
+├── EP 00  What is an FDE
+├── EP 01  Python for FDEs
+├── EP 02  SQL & data pipelines
+├── EP 03  FastAPI service layer
+└── EP 04  Prompt engineering as contracts
 ```
 
-[![Follow on X](https://img.shields.io/badge/follow%20@askarthemass-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/askarthemass)
+[![Follow](https://img.shields.io/badge/follow%20%40askarthemass-0f0f0f?style=flat-square&logo=x&logoColor=white)](https://x.com/askarthemass)
 
 </td>
 <td width="50%" valign="top">
 
-**🎬 YouTube — [@askarcodes](https://www.youtube.com/@askarcodes)**
+**YouTube — [@askarcodes](https://www.youtube.com/@askarcodes)**
 
-Engineering shorts — Angular internals, Python DSA, AI news breakdowns.
+AI for Software Engineers lessons, DSA, engineering shorts.
 
 ```
-Recent shorts
-├── Angular @defer() — component loading
-├── Two Sum — O(n) in Python
-└── OpenAI GPT-6 Astra: 1.05M context
+Focus areas
+├── Context engineering
+├── Prompt injection & AI security
+├── Observability & tracing
+├── Cost & latency engineering
+└── Embeddings & vector search
 ```
 
-[![Subscribe](https://img.shields.io/badge/subscribe%20@askarcodes-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@askarcodes)
+[![Subscribe](https://img.shields.io/badge/subscribe%20%40askarcodes-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@askarcodes)
 
 </td>
 </tr>
@@ -185,52 +195,54 @@ Recent shorts
 
 ---
 
-## 📊 GitHub Stats
+## Recognition
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=askarthemasss&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=DD0031&ring=DD0031&fire=FF6B6B&currStreakLabel=DD0031&sideLabels=c9d1d9&dates=c9d1d9" width="60%" />
-
-</div>
-
-<br/>
-
-> **Want the full stats dashboard?** Set up two GitHub Actions in this repo and they generate beautiful SVG cards daily, hosted by GitHub itself — never broken, no external dependency. Takes 5 minutes.
->
-> → **Snake animation:** [Platane/snk](https://github.com/Platane/snk) — add `.github/workflows/snake.yml`
-> → **Full metrics card:** [lowlighter/metrics](https://github.com/lowlighter/metrics) — add `.github/workflows/metrics.yml`
-
+- **Super Squad Award** (Agilysys) — cross-functional delivery & milestones  
+- **Team Player Award** (Agilysys) — collaboration and shared delivery goals  
+- Led full **AngularJS → modern Angular** platform rewrite for global hospitality systems  
+- **Microsoft Pro Badge: GitHub Copilot — Proficient** ([Credly](https://www.credly.com/badges/b92b3514-aa52-4cfd-b99c-b06111af2147/public_url))
 
 ---
 
-## 🗺️ Roadmap
+## Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=askarthemasss&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" width="55%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askarthemasss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" height="165" />
+
+</div>
+
+---
+
+## Roadmap
 
 | Status | Item |
 |--------|------|
-| ✅ | Led AngularJS → Angular v17+ enterprise migration |
-| ✅ | **Super Squad Award** — Agilysys cross-functional delivery |
-| ✅ | Shipped **LTReee** & **RoleMentor AI** — both live |
-| ✅ | Regular content on X & YouTube |
-| ✅ | MCP tooling integrated into dev workflow |
-| 🔄 | Angular Resource API · Zoneless Change Detection |
-| 🔄 | C# / .NET Core backend foundations |
-| 🔄 | Recurra — subscription tracker with Gmail AI parsing |
-| 🎯 | Open-source Angular contributions |
-| 🎯 | Angular tutorial series |
-| 🎯 | Tech meetup talk |
+| ✅ | AngularJS → Angular v17+ enterprise migration |
+| ✅ | Super Squad + Team Player awards (Agilysys) |
+| ✅ | Shipped Sigil, LTReee, RoleMentor AI |
+| ✅ | MCP in daily workflow · Copilot Proficient badge |
+| ✅ | FDE series + AI for Software Engineers content |
+| 🔄 | Deeper Python / FastAPI / data pipelines |
+| 🔄 | Agents, evals, observability in real products |
+| 🔄 | C# / .NET service foundations |
+| 🎯 | Customer-side FDE skills · production AI systems |
+| 🎯 | Open-source + talks |
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=99999&color=DD0031&center=true&vCenter=true&width=600&lines=always+in+beta.+always+compiling.+always+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=99999&color=A78BFA&center=true&vCenter=true&width=700&lines=always+in+beta.+always+compiling.+always+shipping." />
 
 <br/>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/askarthemass)
+[![X](https://img.shields.io/badge/X-0f0f0f?style=for-the-badge&logo=x&logoColor=white)](https://x.com/askarthemass)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@askarcodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-askar-a-9370a1b2/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/askarthemasss/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaskar476@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge)](https://askar-codes.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaskar476@gmail.com)
 
 </div>
